@@ -2,15 +2,15 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>Gulp.js</id>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
         <title>Gulp.js</title>
         <authors>koistya</authors>
         <owners>koistya</owners>
         <licenseUrl>https://raw.github.com/koistya/gulp-nuget/master/LICENSE.txt</licenseUrl>
         <projectUrl>https://github.com/koistya/gulp-nuget</projectUrl>
-        <iconUrl>https://github.com/koistya/gulp-nuget/blob/master/gulp.ico</iconUrl>
+        <iconUrl>http://ih1.redbubble.net/image.15794323.5195/sticker,220x200-pad,220x200,ffffff.u1.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>The JavaScript streaming build system for you client-side code.
+        <description>The JavaScript streaming build system for your client-side code.
 http://gulpjs.com/
 https://github.com/gulpjs/gulp
 https://github.com/koistya/gulp-nuget</description>
