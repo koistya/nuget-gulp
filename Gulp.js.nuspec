@@ -8,15 +8,12 @@
         <owners>Konstantin Tarkus</owners>
         <licenseUrl>https://raw.github.com/koistya/gulp-nuget/master/LICENSE.txt</licenseUrl>
         <projectUrl>https://github.com/koistya/gulp-nuget</projectUrl>
-        <iconUrl>http://ih1.redbubble.net/image.15794323.5195/sticker,220x200-pad,220x200,ffffff.u1.png</iconUrl>
+        <iconUrl>https://raw2.github.com/koistya/gulp-nuget/master/gulp.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>The JavaScript streaming build system for your client-side code.
-http://gulpjs.com/
-https://github.com/gulpjs/gulp
-https://github.com/koistya/gulp-nuget</description>
+        <description>The JavaScript streaming build system for client-side code (HTML, LESS, SASS, JSX...)</description>
         <summary />
         <copyright>Copyright &#169; 2014 Konstantin Tarkus</copyright>
-        <tags>gulp,gulp.js,node.js,npm,gulpjs,nodejs,javascript</tags>
+        <tags>gulp,gulp.js,node.js,npm,gulpjs,nodejs,javascript,less,sass,jsx</tags>
         <dependencies>
             <dependency id="Npm.js" version="1.3.15.7" />
         </dependencies>
