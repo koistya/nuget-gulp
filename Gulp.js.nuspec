@@ -10,7 +10,7 @@
         <projectUrl>https://github.com/koistya/gulp-nuget</projectUrl>
         <iconUrl>https://raw2.github.com/koistya/gulp-nuget/master/gulp.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>The JavaScript streaming build system for client-side code (HTML, LESS, SASS, JSX...)</description>
+        <description>The JavaScript streaming build system for client-side code (HTML, LESS, SASS, JSX...). Gulp.js is a newer promising alternative to Grunt.js.</description>
         <summary />
         <copyright>Copyright &#169; 2014 Konstantin Tarkus</copyright>
         <tags>gulp,gulp.js,grunt,grunt.js,node.js,npm,gulpjs,nodejs,javascript,less,sass,jsx</tags>
