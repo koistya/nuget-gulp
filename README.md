@@ -31,9 +31,9 @@ http://gulpjs.com
 ### Support
 
 Found an issue, have a comment or feature suggestion?
-[Leave it](https://github.com/koistya/gulp-nuget/issues/new) here:
+[Leave it](https://github.com/koistya/nuget-gulp/issues/new) here:
 
-[https://github.com/koistya/gulp-nuget/issues](https://github.com/koistya/gulp-nuget/issues)
+[https://github.com/koistya/nuget-gulp/issues](https://github.com/koistya/nuget-gulp/issues)
 
 Contributions of any kind are welcome!
 
@@ -43,6 +43,6 @@ Brought to you by Konstantin Tarkus ([@koistya](https://twitter.com/koistya)).
 
 ### License
 
-This project is licensed under the **MIT License** (MIT). Refer to
-[LICENSE.txt](https://github.com/koistya/gulp-nuget/blob/master/LICENSE.txt)
+This project is licensed under **the MIT License** (MIT). Refer to
+[LICENSE.txt](https://github.com/koistya/nuget-gulp/blob/master/LICENSE.txt)
 for more information.
