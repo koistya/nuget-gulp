@@ -9,7 +9,7 @@
 	</PropertyGroup>
 	<Target Name="InstallGulp">
 		<Message Text="Installing Gulp.js..."/>
-		<Exec Condition=" !Exists('$(NodeModulesGulp)')" Command="$(MSBuildThisFileDirectory)..\tools\npm.cmd install gulp gulp-util --save-dev" WorkingDirectory="$(SolutionDir)" />
+		<Exec Condition=" !Exists('$(NodeModulesGulp)')" Command="&quot;$(MSBuildThisFileDirectory)..\tools\npm.cmd&quot; install gulp gulp-util --save-dev" WorkingDirectory="$(SolutionDir)" />
 		<Message Text="Gulp.js installed!"/>
 	</Target>
 </Project>

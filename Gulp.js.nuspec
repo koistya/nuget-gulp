@@ -2,13 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>Gulp.js</id>
-        <version>1.0.1</version>
+        <version>1.0.2</version>
         <title>Gulp.js</title>
         <authors>Konstantin Tarkus</authors>
         <owners>Konstantin Tarkus</owners>
-        <licenseUrl>https://raw.github.com/koistya/gulp-nuget/master/LICENSE.txt</licenseUrl>
-        <projectUrl>https://github.com/koistya/gulp-nuget</projectUrl>
-        <iconUrl>https://raw2.github.com/koistya/gulp-nuget/master/gulp.png</iconUrl>
+        <licenseUrl>https://raw.github.com/koistya/nuget-gulp/master/LICENSE.txt</licenseUrl>
+        <projectUrl>https://github.com/koistya/nuget-gulp</projectUrl>
+        <iconUrl>https://raw2.github.com/koistya/nuget-gulp/master/gulp.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>The JavaScript streaming build system for client-side code (HTML, LESS, SASS, JSX...). Gulp.js is a newer promising alternative to Grunt.js.</description>
         <summary />
