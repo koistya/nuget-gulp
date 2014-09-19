@@ -1,5 +1,4 @@
-Gulp.js NuGet Package
-=====================
+# Gulp.js NuGet Package &nbps; [![Tips](http://img.shields.io/gratipay/koistya.svg?style=flat)](https://gratipay.com/koistya)
 
 > This [NuGet](http://www.nuget.org) package allows you to add [Gulp.js](http://gulpjs.com/)
 > support to your Visual Studio projects.
